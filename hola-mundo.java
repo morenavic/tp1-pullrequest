@@ -3,6 +3,7 @@ public class HolaMundo {
         String saludoJava="¡Hola Java!";
         String saludoGit="¡Hola GIT!";
         System.out.println(saludoJava);
+        System.out.println("/n");
         System.out.println(saludoGit);
     }
 }
