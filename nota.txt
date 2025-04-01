@@ -1,0 +1,4 @@
+Este es un archivo de ejemplo para confirmar cambios en Git.
+Agregando una línea nueva a las notas.
+Agregando otra línea para un tercer commit.
+Agregando otra línea para un cuarto commit.
